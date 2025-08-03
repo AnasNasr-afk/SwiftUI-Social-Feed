@@ -11,13 +11,9 @@ A beautiful and interactive social media feed app built with SwiftUI, featuring 
 - **Particle Effects**: Delightful animations when liking posts
 - **Responsive Design**: Optimized for all iOS devices
 
-## 📸 Screenshots
+[🎥 Watch Demo](https://drive.google.com/file/d/1BGd3OqsI-15QtosIy-xh1UjuD0mP_SVR/view?usp=drivesdk)
+---
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light Mode Screenshot](screenshots/light-mode.png) | ![Dark Mode Screenshot](screenshots/dark-mode.png) |
-
-> Beautiful UI with seamless light/dark mode switching and smooth animations
 
 ## 🛠️ Technologies Used
 
